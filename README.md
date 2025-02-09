@@ -4,7 +4,8 @@ NAME: SULEIMAN AL-AMIN KABIR;
 MATRIC NO: U23CYS1032 ;
 LEVEL: 200LEVEL ;
 DEPARTMENT:CYBER SECURITY ;
-Calculator README
+
+CALCULATOR README
 
 Overview
 
@@ -44,37 +45,3 @@ How It Works
 	•	The ActionListener interface handles button clicks.
 	•	When an operator is clicked, the first number is stored, and the JTextField is cleared for the second number.
 	•	On pressing =, the operation is executed, and the result is displayed.
-
-How to Run the Calculator
-
-Prerequisites
-
-	•	Java Development Kit (JDK) installed on your system.
-
-Steps to Run
-
-	1.	Clone the Repository
-
-git clone https://github.com/your-repo/calculator.git
-cd calculator
-
-
-	2.	Compile and Run
-
-javac Calculator.java
-java Calculator
-
-
-	3.	The calculator GUI will launch, allowing you to perform calculations.
-
-Future Enhancements
-
-	•	Add advanced operations like square root, percentage, and power functions.
-	•	Implement memory storage functionality.
-	•	Improve UI with better styling and animations.
-
-License
-
-This project is open-source under the MIT License.
-
-Enjoy using the calculator! Feel free to contribute to the project.
